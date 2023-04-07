@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Bloco ponto de interrogação Super Mario 64™",
+      "price": 199.99,
+      "imgUrl": "/imgs/Bloco ponto de interrogação Super Mario 64/71395.png",
+      "productImgs": [
+        "/imgs/Bloco ponto de interrogação Super Mario 64/71395.png",
+        "/imgs/Bloco ponto de interrogação Super Mario 64/71395_alt1.png",
+      "/imgs/Bloco ponto de interrogação Super Mario 64/71395_alt3.png"]
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang",
+      "price": 169.99,
+      "imgUrl": "/imgs/ford mustang/0bf78614270218518986aa9f91c29ea3a7b98f50.png",
+      "productImgs":[
+        "/imgs/ford mustang/0bf78614270218518986aa9f91c29ea3a7b98f50.png",
+        "/imgs/ford mustang/1a870f20fd0eda149e02bb1d3287fee8ad8175be.jpg",
+        "/imgs/ford mustang/32936b070bb94f4ff663065b4693d650feae4b4d.png",
+        "/imgs/ford mustang/ad61135221b2ce093687103fa661915a28b02d94.jpg",
+        "/imgs/ford mustang/ca7425a01b57cb3178eee59c4914d1242f2411ac.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hogwarts™: O Escritório de Dumbledore",
+      "price": 89.99,
+      "imgUrl": "/imgs/hp/hp.png",
+      "productImgs":[
+        "/imgs/hp/hp.png",
+        "/imgs/hp/0a526a255f0b220a9274a88d48f7fcb08af94076.png",
+        "/imgs/hp/72f7e2600fc9e79de8ffcb5589ba83e3e5f9dc78.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Millennium Falcon™",
+      "price": 169.99,
+      "imgUrl": "/imgs/Millennium Falcon/75192_alt1.png",
+      "productImgs":[
+        "/imgs/Millennium Falcon/75192_alt1.png",
+        "/imgs/Millennium Falcon/75192_alt2.png",
+        "/imgs/Millennium Falcon/75192_alt6.png",
+        "/imgs/Millennium Falcon/75192_alt4.png"
+      ]
+    }
+  ]
